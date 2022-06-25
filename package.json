@@ -18,6 +18,6 @@
   "homepage": "https://github.com/k-ashu/job-board#readme",
   "dependencies": {
     "cron": "^1.7.2",
-    "node-fetch": "^2.6.0"
+    "node-fetch": "^2.6.7"
   }
 }
